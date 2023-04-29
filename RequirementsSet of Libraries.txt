@@ -1,0 +1,15 @@
+Requirements/Set of Libraries:
+
+If library is already pre-installed use keyword 'import'. Otherwise use 'pip install'(For Windows- to be executed in command prompt or terminal)
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.pipeline import Pipeline
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import precision_score, recall_score, confusion_matrix, classification_report, accuracy_score, f1_score
+import warnings
