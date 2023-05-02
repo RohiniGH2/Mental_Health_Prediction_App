@@ -3,6 +3,8 @@
 This app accepts several input values from the user and predicts the level of depression , anxiety and panic attack in students on the basis of an imported dataset. It also predicts whether a student seeks any specialized treatment or not and states the generalizations drawn from the plotted graphs. 
 
 Project Objective
+
+
 I’m very passionate about AI and trying to apply the skill wherever I can. I have always wanted to work on a hands-on project that uses different domains of AI like NLP, Machine Learning, Computer Vision etc. But, at the same time I’m also passionate about advocating the importance of mental health. 
 We see an ever-increasing suicidal tendency in today’s generation and that’s one of the most pressing issues. So in today's technology driven world, I tried to build an app that harnesses the power of AI to create a socially impactful and beneficial project. If AI can make the right predictions, understand the trends and figure out correlations, it can be quite instrumental in bringing down suicidal rates in teenagers significantly.   We see numerous cases of depression, anxiety, panic attack or nervous breakdowns in today's teens , and it becomes increasingly difficult to handle such cases if not given special attention. 
 
